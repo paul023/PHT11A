@@ -1,0 +1,15 @@
+- Configure Git
+git config --global user.name "username"
+git config user.name
+git config --global user.email "email"
+git config user.email
+
+
+- Initialize a Repository
+git init
+
+- Git Three Stage Architecture
+- Check the status of all of our files and folders
+git status
+
+- Add the files into the sta
