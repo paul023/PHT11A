@@ -1,0 +1,11 @@
+ /* 
+            selector {
+                properties...
+                color: red;
+                background-color: black;
+            }
+        */
+        span{
+            color: blueviolet;
+            font-size: 22;
+        }
