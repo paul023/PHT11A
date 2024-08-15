@@ -1,0 +1,22 @@
+/* Class Selector */
+.intro-paragraphs {
+    color: red;
+    background-color: antiquewhite;
+}
+#main-heading{
+    font-weight: bold;
+}
+/* Universal Selector */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Grouping Selector */
+h1, h2, .about-content {
+    color: tomato;
+    font-style: italic;
+}
+/* Universal Selector */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
